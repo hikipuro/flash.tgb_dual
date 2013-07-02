@@ -3,6 +3,9 @@
 TGB Dual Ver. Vol.8''' を Flash に移植してみました。  
 http://gigo.retrogames.com/
 
+動作確認用
+http://hkpr.info/flash/tgb_dual/
+
 
 概要
 -----
